@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+/* Headings */
+.cart-heading {
+    color: #3b99e0;
+}
+
+/* Summary */
+.summary {
+    border-top: 2px solid #5ea4f3;
+    background-color: #f7fbff;
+    padding: 20px;
+}
+
+/* Product Block */
+.product {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+/* Product Images */
+.product img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Block Heading */
+.block-heading {
+    text-align: center;
+}
